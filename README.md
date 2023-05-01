@@ -5,7 +5,7 @@ The project's 3D modeling component involves creating detailed 3D models of vari
 
 The animation component involves adding movement and dynamics to the 3D models to create a more immersive experience. For example, waterfalls may be animated to show the flow of water, and animals may be animated to move realistically.
 
-# screenshot
+# screenshots
 ![preview](https://user-images.githubusercontent.com/77823025/235451923-449eb08e-5295-426e-ae62-6b54f4fa32f0.png)
 ![preview1](https://user-images.githubusercontent.com/77823025/235451936-1b1bee3d-6743-4107-a171-cbc48be8a2ea.png)
 ![preview2](https://user-images.githubusercontent.com/77823025/235451379-9b1fd382-c580-490e-b7b8-72f07300ff6f.png)
