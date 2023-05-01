@@ -1,2 +1,6 @@
 # Rangamati-CG_Project
-A computer graphics project on Rangamati can involve creating a 3D model of the district, which is a hilly area in southeastern Bangladesh. The project could include creating virtual landscapes, buildings, and landmarks that are representative of the region's natural beauty and cultural heritage.
+The Computer Graphics project "Rangamati" is a multimedia project that aims to showcase the natural beauty, culture, and tourism potential of the Rangamati district in Bangladesh. The project includes a wide range of multimedia components, including 3D modeling, animation, sound, and interactivity.A computer graphics project on Rangamati can involve creating a 3D model of the district, which is a hilly area in southeastern Bangladesh. The project could include creating virtual landscapes, buildings, and landmarks that are representative of the region's natural beauty and cultural heritage.
+
+The project's 3D modeling component involves creating detailed 3D models of various natural and cultural elements of Rangamati, such as mountains, rivers, forests, waterfalls, traditional houses, boats, and people. The models are created using specialized software tools and techniques and are designed to be as realistic and detailed as possible.
+
+The animation component involves adding movement and dynamics to the 3D models to create a more immersive experience. For example, waterfalls may be animated to show the flow of water, and animals may be animated to move realistically.
